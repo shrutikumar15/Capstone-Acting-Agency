@@ -1,5 +1,5 @@
 # Capstone Project
-#Casting Agency Specifications
+## Casting Agency Specifications
 The Casting Agency models a company that is responsible for creating movies and managing as well as assigning actors to those movies. 
 
 No frontend is developed for this app, you can use it using cURL or Postman
