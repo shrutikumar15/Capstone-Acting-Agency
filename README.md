@@ -22,9 +22,11 @@ This will install all of the required packages we selected within the `requireme
 
 ##### Key Dependencies
 
-- [Flask]
+- Flask
 
-- [SQLAlchemy]
+- SQLAlchemy
+
+- Postgres
 
 ## Running the server
 Create the database:
